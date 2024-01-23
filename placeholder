@@ -1,0 +1,5 @@
+name = "alice"
+age = 20
+hometown = "uk"
+message= "hello, i'm {}, i am {} years old and i am from {}." .format(name, age, hometown)
+print (message)
